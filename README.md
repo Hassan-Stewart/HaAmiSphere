@@ -2,7 +2,7 @@
 Welcome to HaAmiSphere, your dynamic social networking platform where connections flourish and communities thrive.
 
 About HaAmiSphere
-HaAmiSphere is a social media app designed to bring people together, inspired by the namesake elements of Hassan and Amir Stewart. Our platform aims to create a vibrant and engaging space for users to connect, share, and interact with one another.
+HaAmiSphere is a social media app designed to bring people together, inspired by the namesake elements of Hassan Stewart. Our platform aims to create a vibrant and engaging space for users to connect, share, and interact with one another.
 
 Key Features
 Connect with Ease: Easily find and connect with friends, family, and new acquaintances.
